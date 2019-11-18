@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+// 教程的配置选项和设置
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
